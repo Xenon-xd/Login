@@ -18,14 +18,14 @@ cat <<LOGIN>bash.bashrc
 trap '' 2                                          
 echo -e "\e[1;32m
             ──▄▀▀▀▄───────────────
-           \033[33mPlease Login To Continue\033[32m
+           \033[33m𝐋ᴏɢɪɴ ᴛᴏ 𝐂ᴏɴᴛɪɴᴜᴇ\033[32m
             ──█───█───────────────
             ─███████─────────▄▀▀▄─
             ░██─▀─██░░█▀█▀▀▀▀█░░█░
             ░███▄███░░▀░▀░░░░░▀▀░░
 
 \033[31m           ────────────────────────────
-\033[33m           Login With Your \033[32mCredentials 
+\033[33m           Lᴏɢɪɴ ᴡɪᴛʜ ʏᴏᴜʀ \033[32m𝐂ʀᴇɴᴅᴇɴᴛɪᴀʟs
 \033[31m           ────────────────────────────
 
 \e[0m"
@@ -42,14 +42,14 @@ python sound_effect.py
 clear
 cd $HOME 
 echo -e "\033[1m\033[33m
+•━─━────༺༻────━─━•
+♡↝             ↜♡
+⇲  『𝐙ᴇɴᴇx 𝐖ᴏʀʟᴅ』 ⇱
+𝐁ᴀᴀᴘ 𝐒ᴇ 𝐁ᴀᴋᴄʜᴏᴅɪ 𝐍ʜɪ 𝐁ᴇᴛᴀ 😂
 
-◇───────◇───────◇───────◇
-♡↝        ♣♦♣♦♣♦♣♦        ↜♡
-⇲    (×͜×) 𝑍𝑒𝑛𝑒𝑋 𝑊𝑜𝑟𝑙𝐷 (×͜×)   ⇱
-(\_/)
-(•.•)
-/>Baap se BAKCHODI nhi beta 😂
---m-m-----------------m-m--
+• 𝐒ᴏᴄɪᴀʟ ᴀᴄᴄᴏᴜɴᴛs
+• 𝐈ɴsᴛᴀ ɪᴅ _.ʟᴏᴠᴀɴsʜɪ._ •• 𝐓ᴇʟᴇɢʀᴀᴍ ɪᴅ ᴢᴇɴᴇx_xD 
+• 𝐆ɪᴛʜᴜʙ ɪᴅ ᴢ3ᴜs-xᴅ    •• 𝐒ɴᴀᴘ ɪᴅ ᴢᴇɴᴇx_xD
 "
 echo -e  "     \e[1m\e[32m◢◤◢◤◢◤◢◤◢◤◢◤ \033[1m𝑪𝑶𝑫𝑬𝑫 𝑩𝒀 \e[33m𝒁𝒆𝑵𝒆𝑿 𝑷𝒂𝑷𝒂 \e[1m\e[32m◢◤◢◤◢◤◢◤◢◤◢◤"
 cd /sdcard
@@ -80,7 +80,7 @@ cd Termux-Login
 cd
 else
 echo ""
-echo -e "\e[1;31m  Your Password Is Incorrect ! <)
+echo -e "\e[1;31m  ᴀᴄᴄᴇss ᴅᴇɴɪᴇᴅ ɪɴᴄᴏʀʀᴇᴄᴛ ᴘᴀssᴡᴏʀᴅ ! <)
 \e[0m"
 sleep 1
 cmatrix -L
@@ -90,8 +90,8 @@ LOGIN
 echo 
 echo
 echo 
-echo -e "\033[1m\e[1;32m     Your Termux is \033[33mReady \n
-       So please \033[31mExit \033[37mand \033[32mLogin.\e[0m"
+echo -e "\033[1m\e[1;32m     Yᴏᴜʀ Tᴇʀᴍᴜx ɪs \033[33mReady \n
+       Sᴏ pʟᴇᴀsᴇ \033[31mExitp \033[37mand \033[32mLogin.\e[0m"
 echo
 echo
 
